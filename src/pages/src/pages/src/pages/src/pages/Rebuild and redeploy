@@ -1,0 +1,4 @@
+npm run build
+git add .
+git commit -m "Fix routing with vercel.json"
+git push origin main
